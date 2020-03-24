@@ -1,3 +1,11 @@
-# topic-presentation-happy-beatles
-topic-presentation-happy-beatles created by GitHub Classroom
-## 03.24 开始讨论
+# topic-presentation-happy-beatles    
+小组工作计划：
+
+## 1、小组创建及主题确定
+### (1) 2020.03.20小组创建，确定了队长、队名及汇报时间
+### (2) 主题确定为王学钦教授最新报告研究：从病例数据对比分析影响温州与深圳疫情的特征
+
+## 2、小组具体讨论时间确定
+### (1) 2020.03.24 进行第一次小组讨论，对报告内容进行详细解读，确定研究方法、数据获取及模型使用，并对报告提出意见和建议
+### (2) 2020.o3.27 进行第一次小组讨论，明确分工，确定Topic Presentation的具体框架
+### (3) 2020.04.02 大致完成报告所需Markdown文件
